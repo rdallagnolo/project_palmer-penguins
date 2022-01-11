@@ -1,13 +1,13 @@
 # Palmer penguins project
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73315732/148902492-fae7ceb0-b139-4c88-b9d8-d4c008fde4e1.png" width="500" height="298" />
-
+</p>
 *Artwork by <a href="https://allisonhorst.github.io/palmerpenguins/index.html">@allison_horst</a>*
 
 The goal of this project is to develop a machine learning regressor model able to classify Palmer penguins species with over 90% of accuracy. Palmer Station is a United States research station in Antarctica located on Anvers Island, the only US station located north of the Antarctic Circle. Initial construction of the station finished in 1968. The station, like the other U.S. Antarctic stations, is operated by the United States Antarctic Program (USAP) of the National Science Foundation.
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73315732/148900698-0c300d23-4a4d-45e5-b31d-78668f9f558b.png" width="500" height="363" />
-
+</p>
 The three species subject of this project belong to the Pygoscelis genus. The genus Pygoscelis ("rump-legged") contains three living species of penguins collectively known as "brush-tailed penguins". A study has estimated that there are about 3.79 million pairs of Adélie, 387,000 pairs of gentoo, and 8 million pairs of chinstrap penguins in their particular areas, making up 90% of Antarctic avian biomass (Black, C. E. 2016)
 
  - Black, Caitlin E. (2016-03-01). <a href="https://link.springer.com/article/10.1007%2Fs00300-015-1807-8"> A comprehensive review of the phenology of Pygoscelis penguins.</a> Polar Biology. 39 (3): 405–432.
