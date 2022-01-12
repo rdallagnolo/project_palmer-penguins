@@ -5,7 +5,9 @@
 
 *Artwork by <a href="https://allisonhorst.github.io/palmerpenguins/index.html">@allison_horst</a>*
 <p>&nbsp;</p>
-The goal of this project is to develop a machine learning classifier model able to classify Palmer penguins species with over 90% of accuracy. Palmer Station is a United States research station in Antarctica located on Anvers Island, the only US station located north of the Antarctic Circle. Initial construction of the station finished in 1968. The station, like the other U.S. Antarctic stations, is operated by the United States Antarctic Program (USAP) of the National Science Foundation.
+The goal of this project is to develop a machine learning classifier model able to classify Palmer penguins species with over 90% of accuracy using measurements of their flippers and bills.
+<p>&nbsp;</p>
+Palmer Station is a United States research station in Antarctica located on Anvers Island, the only US station located north of the Antarctic Circle. Initial construction of the station finished in 1968. The station, like the other U.S. Antarctic stations, is operated by the United States Antarctic Program (USAP) of the National Science Foundation.
 <p>&nbsp;</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73315732/148900698-0c300d23-4a4d-45e5-b31d-78668f9f558b.png" width="500" height="363" />
